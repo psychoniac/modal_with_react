@@ -1,11 +1,12 @@
 
 import './App.css'
+import Modal from './components/Modal'
 
 function App() {
   
   return (
     <>
-      <h1>Modal avec react</h1>
+      <Modal />
     </>
   )
 }
